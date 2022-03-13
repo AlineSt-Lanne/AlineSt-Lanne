@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @AlineSt-Lanne
 - 🌱 In training develop web at the Wild Code School of Nantes
 - 📫 How to reach me : a.saintlanne@gmail.com
+- 📚 How to see my CV : https://www.linkedin.com/in/aline-saint-lanne/
 - 👀 My Portfolio : https://aline-saintlanne-portfolio.webflow.io
