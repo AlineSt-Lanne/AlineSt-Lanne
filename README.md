@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlineSt-Lanne
+- 👋 Hi, I’m @AlineSureau
 - 🌱 In training UX/UI at the Wild Code School of Nantes
 - 📫 How to reach me : a.saintlanne@gmail.com
 - 📚 How to see my CV : https://www.linkedin.com/in/aline-sureau/
